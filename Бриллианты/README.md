@@ -5,7 +5,7 @@
 - price: цена в usd
 - carat: вeс в каратах
 - cut: качество огранки (Fair, Good, Very Good, Premium, Ideal)
-- color: цветность брильянта (степень "желтезны"), от J (плохая) до D (наилучшая) 
+- color: цветность бриллианта (степень "желтезны"), от J (плохая) до D (наилучшая) 
 https://en.wikipedia.org/wiki/Diamond_color
 - clarity: чистота брильянта (I1 (плохая), SI2, SI1, VS2, VS1, VVS2, VVS1, IF (наилучшая)) 
 https://en.wikipedia.org/wiki/Diamond_clarity
