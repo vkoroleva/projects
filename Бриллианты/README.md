@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/h1srQDFv)
-# Долгожданное дз про блестящие дорогие камни. 
+# Про блестящие дорогие камни. 
 
-Цель - наилучшим способом предсказать цену брильянта.
+Цель - наилучшим способом предсказать цену бриллианта.
 - price: цена в usd
 - carat: вeс в каратах
 - cut: качество огранки (Fair, Good, Very Good, Premium, Ideal)
