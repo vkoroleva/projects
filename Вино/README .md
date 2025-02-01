@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/YGMyh6t1)
 # Вино
 
-### Задание. Научится покупать качественное вино 
+### Задание. Научиться покупать качественное вино 
 >Файлы: для обучения  `train.csv` и для предсказания `test.csv`<br>
 >Цель: научиться приобретать вино качеством от 7 и более (7, 8 и т.д.)
 
