@@ -1,7 +1,7 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/tX8-4Blr)
 # Задача классификации.
 
-Необходимо научиться предсказывать преддиабетное состояние или диабет по результатам анализов и опрососа.
+Необходимо научиться предсказывать преддиабетное состояние или диабет по результатам анализов и опроса.
 
 **Target:** Diabetes_binary - 0 = no diabetes 1 = prediabetes or diabetes  
 **Features:**  
